@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZS Movie Store</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>  //test
+<!--    <string name="app_id">ca-app-pub-3952136324517202~4689647685</string>-->
+
+
+
+        <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string> //test
+<!--    <string name="banner_id">ca-app-pub-3952136324517202/9813981852</string>-->
+        <string name="interstial_id">ca-app-pub-3940256099942544/1033173712</string> //test
+<!--    <string name="interstial_id">ca-app-pub-3952136324517202/2865430126</string>-->
+        <string name="rewarded_id">ca-app-pub-3940256099942544/5224354917</string> //test
+<!--    <string name="rewarded_id">ca-app-pub-3952136324517202/3934490280</string>-->
+
+</resources>
