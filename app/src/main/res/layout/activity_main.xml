@@ -8,7 +8,7 @@
      android:id="@+id/tablayout"
      android:layout_width="match_parent"
      android:layout_height="50dp"
-     android:background="@color/colorPrimaryLight"
+     android:background="@color/colorNew"
      app:tabIndicator="@color/colorPrimary"
      app:tabTextColor="@color/colorOnprimary"/>
     <androidx.viewpager.widget.ViewPager

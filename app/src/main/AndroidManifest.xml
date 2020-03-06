@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.itonemm.clientapponline">
+    package="com.aungzinmoe.moviesworld">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
@@ -12,10 +12,10 @@
         android:usesCleartextTraffic="true"
         android:networkSecurityConfig="@xml/networkconfig"
         android:theme="@style/AppTheme">
-        <activity android:name=".PlayVideoActivity"
+        <activity android:name="com.aungzinmoe.moviesworld.PlayVideoActivity"
             android:screenOrientation="landscape"></activity>
-        <activity android:name=".SeriesDetailActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.aungzinmoe.moviesworld.SeriesDetailActivity" />
+        <activity android:name="com.aungzinmoe.moviesworld.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
